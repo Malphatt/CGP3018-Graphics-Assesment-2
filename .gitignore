@@ -72,5 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Content/Fab/Hull_spaceship/hull_spaceship_hull_spaceship/GC_hull_spaceship.uasset
 Content/Fab/Spaceship__Manticore__class/spaceship_manticore_class_spaceship_manticore_class/GC_spaceship_manticore_class.uasset
